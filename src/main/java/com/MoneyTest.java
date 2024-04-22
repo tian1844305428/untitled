@@ -12,6 +12,7 @@ public class MoneyTest {
             Scanner sc = new Scanner(System.in);
             //苹果的斤数
             Scanner sca = new Scanner(System.in);
+e
             //草莓的斤数
             Scanner scr = new Scanner(System.in);
             //芒果的斤数
